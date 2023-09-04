@@ -1,0 +1,5 @@
+Factura Pedido: 1
+Cliente: Gabriel
+Dirección: ML 405
+Productos:
+Total: $52181
